@@ -20,3 +20,5 @@ and access each member with array syntax arr[i].
 This challenge can be solved with the .endsWith() method, which was introduced in ES2015. But for the purpose of this challenge, we would like you to use one of the JavaScript substring methods instead.
 - 06-repeatString.js **Basic Algorithm Scripting: Repeat a String.** Repeat a given string str (first argument) for num times (second argument). Return an empty string if num is not a positive number.
 - 07-truncateString.js **Basic Algorithm Scripting: Truncate a String.** Truncate a string (first argument) if it is longer than the given maximum string length (second argument). Return the truncated string with a ... ending.
+- 08-findersKeep.js **Basic Algorithm Scripting: Finders Keepers.** Create a function that looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument). If no element passes the test, return undefined.
+
