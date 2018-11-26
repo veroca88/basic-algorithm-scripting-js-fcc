@@ -3,8 +3,8 @@ Return the provided string with the first letter of each word capitalized. Make 
 function titleCase (str) {
   str = str.toLowerCase().split(' ')
   for (var i = 0; i < str.length; i++) {
-    str[i] = str[i].charAt(0).toUpperCase() + str[i].slice(1)
+    str[i] = str[i].charAt().toUpperCase() + str[i].slice(1)
   }
-  return str.join(' ')
+  console.log(str.join(' '))
 }
 titleCase("I'm a little tea pot")

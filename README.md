@@ -23,3 +23,6 @@ This challenge can be solved with the .endsWith() method, which was introduced i
 - 08-findersKeep.js **Basic Algorithm Scripting: Finders Keepers.** Create a function that looks through an array (first argument) and returns the first element in the array that passes a truth test (second argument). If no element passes the test, return undefined.
 - 09-itsBoolean.js **Basic Algorithm Scripting: Boo who.** Check if a value is classified as a boolean primitive. Return true or false.
 - 10-titleCase.js **Basic Algorithm Scripting: Title Case a Sentence.** Return the provided string with the first letter of each word capitalized. Make sure the rest of the word is in lower case. For the purpose of this exercise, you should also capitalize connecting words like "the" and "of".
+- 11-sliceSplice.js **Basic Algorithm Scripting: Slice and Splice.** You are given two arrays and an index. 
+Use the array methods slice and splice to copy each element of the first array into the second array, in order.
+Begin inserting elements at index n of the second array. Return the resulting array. The input arrays should remain the same after the function runs.
