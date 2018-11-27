@@ -26,3 +26,5 @@ This challenge can be solved with the .endsWith() method, which was introduced i
 - 11-sliceSplice.js **Basic Algorithm Scripting: Slice and Splice.** You are given two arrays and an index. 
 Use the array methods slice and splice to copy each element of the first array into the second array, in order.
 Begin inserting elements at index n of the second array. Return the resulting array. The input arrays should remain the same after the function runs.
+- 12-falsyBouncer.js **Basic Algorithm Scripting: Falsy Bouncer.** Remove all falsy values from an array. Falsy values in JavaScript are false, null, 0, "", undefined, and NaN. Hint: Try converting each value to a Boolean.
+
